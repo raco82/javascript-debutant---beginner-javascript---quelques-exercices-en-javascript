@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>calcculatrice scientifique</title>
+	<meta charset="utf-8" >
+	<link rel="stylesheet" type="text/css" href="calculatrice.css">
+</head>
+<body>
+
+   <div id="contenu">
+     <div class="para">
+        <p>Calculette fx92-college</p>
+     </div>
+     <div class="afficher">
+      <input value="" disabled="disabled" id="resultat" type="text" placeholder="0" />
+     </div>
+
+
+     <div class="debut">
+         <button value="2nd" id="secondfonction" onclick="secondfonction();">2<sup>nd</sup></button>
+         <button value="DRG" id="degre" onclick="degre();">DRG</button>
+         <button value="OFF" id="eteindre" onclick="eteindre();">OFF</button>
+         <button value="ON" id="allumer" onclick="allumer();">ON</button>
+     </div>
+
+     <div class="fonction">
+
+        <button value="sin" id="sinus" onclick="sinus();">sin</button>
+        <button value="cos" id="cosinus" onclick="cosinus();">cos</button>
+        <button value="hyp" id="hypothenuse" onclick="hypothenuse();">hyp</button>
+        <button value="tan" id="tangente" onclick="tangente();">tan</button>
+         <button value="x2" id="xcarre" onclick="xcarre();">x<sup>2</sup></button>
+         <br>
+
+        <button value="puiss" id="puissance" onclick="puissance();">y<sup>x</sup></button>
+        <button value="exp" id="expo" onclick="expo();">exp</button>
+        <button value="rac" id="racine" onclick="racine();">v<sup>-</sup></button>
+        <button value="(" id="ouvert" onclick="ouvert();">(</button>
+        <button value=")" id="ferme" onclick="ferme();">)</button>
+
+
+
+     </div>
+
+          <div class="numero">
+
+        <button value="7" id="sept" onclick="sept();">7</button>
+        <button value="8" id="huit"  onclick="huit();">8</button>
+        <button value="9" id="neuf"  onclick="neuf();">9</button>
+
+
+        <br>
+         <button value="4" id="quatre"  onclick="quatre();">4</button>
+         <button value="5" id="cinq"  onclick="cinq();">5</button>
+         <button value="6" id="six"  onclick="six();">6</button>
+
+
+         <br>
+          <button value="1" id= "un"  onclick="un();">1</button>
+          <button value="2" id="deux"  onclick="deux();">2</button>
+          <button value="3" id="trois"  onclick="trois();">3</button>
+
+
+
+          <br>
+           <button value="." id="point"  onclick="point();">.</button>
+           <button value="0" id="zero"  onclick="zero();">0</button>
+           <button value="-" id="plusoumoins"  onclick="plusoumoins();">+/<sub>-</sub> </button>
+           <br>
+           <button value="c" id="reinitialiser" onclick="reinitialiser();">c</button>
+           <button value="<-" id="suppr" onclick="suppr();"><-</button>
+
+
+
+
+        </div>
+
+        <div class="operation">
+           <button value="+" id="plus" onclick="plus();">+</button>
+           <button value="X-M" id="xmoinsm" onclick="xmoinsm();">X-M</button>
+           <br>
+           <button value="*" id="multi" onclick="multi();">*</button>
+           <button value="RM" id="retm" onclick="retm();">RM</button>
+            <br>
+           <button value="-" id="moins" onclick="moins();">-</button>
+           <button value="M+" id="mplus" onclick="mplus();">M+</button>
+           <br>
+           <button value="/" id="divise" onclick="divise();">/</button>
+           <button value="=" id="egal" onclick="egal();">=</button>
+
+        </div>
+
+
+   </div>
+<script type="text/javascript" src="calculatrice.js"></script>
+</body>
+
+
+</html>

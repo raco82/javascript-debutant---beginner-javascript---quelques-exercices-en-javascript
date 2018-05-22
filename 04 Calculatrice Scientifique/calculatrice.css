@@ -1,0 +1,386 @@
+body{
+	padding:0px;
+	margin:0px;
+
+}
+
+#contenu{
+	
+	width:400px;
+	height: 580px;
+	margin-left: 400px;
+	margin-top: 20px;
+	border-radius: 15px;
+	background-color: rgba(35,40,50,1);
+	padding: 10px;
+	
+}
+
+.para{
+	
+	font-size: 25px;
+	font-weight: bold;
+	color:white;
+}
+
+#resultat{
+	width:340px;
+	height:80px;
+	margin-left: 27px;
+	margin-top: 20px;
+	border-radius: 20px;
+	background-color: rgba(80,70,40,0.8);
+	outline: none;
+	text-align: right;
+	font-size: 40px;
+}
+button{
+outline: none;
+}
+
+
+.debut{
+	
+	margin-top:15px;
+}
+
+
+#secondfonction{
+	background-color: rgba(0,0,0,0.8);
+	margin-left: 30px;
+	padding: 5px;
+	border-radius: 5px;
+	width:50px;
+	color: white;
+}
+#degre{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-left: 25px;
+	padding: 5px;
+	border-radius: 5px;
+	width:50px;
+}
+
+#eteindre{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-left: 80px;
+	padding: 5px;
+	border-radius: 5px;
+	width:50px;
+}
+
+#allumer{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-left: 25px;
+	padding: 5px;
+	border-radius: 5px;
+	width:50px;
+}
+
+.fonction{
+	
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+#sinus{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#cosinus{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#hypothenuse{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#tangente{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+
+#xcarre{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#puissance{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#expo{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#racine{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#ouvert{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+#ferme{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:60px;
+}
+
+.numero{
+	
+	width:200px;
+	margin-top: 5px;
+	float:left;
+	margin-left: 20px;
+
+}
+
+#un{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#deux{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#trois{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#quatre{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#cinq{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#six{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#sept{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#huit{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#neuf{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#zero{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#point{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#reinitialiser{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#plusoumoins{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#suppr{
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+
+
+.operation{
+	
+	width:150px;
+	margin-top: 5px;
+	margin-left: 250px;
+	
+}
+
+#plus{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#xmoinsm{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#multi{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#retm{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#moins{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#mplus{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#divise{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+#egal{
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+	margin-top: 15px;
+	margin-left: 10px;
+	padding: 7px;
+	border-radius: 7px;
+	width:50px;
+}
+
+
+
+
+
+
+
