@@ -1,37 +1,20 @@
 <center>
-# REPO : # 20180522-CALCULATRICE-JAVASCRIPT
-
-
-
-![Team Areoport-Marseille-Provence THP](https://github.com/raco82/20180426_Decouverte_de_Rails/blob/master/img/AEROPORT.png)
-
->## THP - Team Aeroport-Marseille-Provence
->##aka "Team Tout Seul"
->##ou "T.T.S."
-
-
-**Bonjour les gens ^_^)**   
-
-
-### Au programme : Faire une calculatrice en JavaScript
-
-Tu verras les bases de JavaScript en faisant une calculatrice simple dans ce langage.
-
+# javascript débutant - beginner javascript - quelques exercices en javascript
 </center>
 
+* * *
 
--------------
+**Reupload my personnal repository on github.**
+maybe it can be helpful ;)
 
+* * *
 
-###  L'équipe :
-![Rachid B. Racö](https://github.com/raco82/20180426_Decouverte_de_Rails/blob/master/img/RacoThp.png)
+**Reupload mon dossier sur github.**
+Peut-être que ça peut vous être utile ;)
 
--------------
+* * *
 
-
-### Le repository : 
-
-- A la racine, fichier **README.md** **???** et **???**
+**Au programme :**
 
 - Dossier **01 Petit exercice de chauffe** : *un petit exercice de chauffe*
 
@@ -41,20 +24,14 @@ Tu verras les bases de JavaScript en faisant une calculatrice simple dans ce lan
 
 - Dossier **04 Calculatrice Scientifique** : *La fameuse calculatrice FX92-College que j'avais à l'époque*
 
+* * *
 
-
-------------
-
-### Utilisation :
+**Utilisation :**
 
 - En local :
  
 `ouvrir le html dans son navigateur...`
 
+* * *
 
-------------
-
-
-<center>### Credit
-
-TP réalisés dans le cadre du THP [https://www.thehackingproject.org](https://www.thehackingproject.org), où il fait bon vivre, que les correcteurs sont trop mignons, trop forts et très sérieux dans leurs notations, et que le staff est tellement ... **WAW !!!** (*et encore c'est peu dire...*)</center>
+Rachid
